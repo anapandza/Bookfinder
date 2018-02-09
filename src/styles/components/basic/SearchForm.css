@@ -1,0 +1,12 @@
+.Search__container {
+    display: flex;
+    margin: 15px 0 0 0;
+}
+
+.Search__container input {
+    flex-grow: 1;
+    padding: 5px;
+    font-size: 20px;
+    height: 30px;
+    border: solid lightgray 2px;    
+}

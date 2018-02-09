@@ -1,0 +1,66 @@
+.Book__container{
+    display: flex; 
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.Book__image {
+    /* width: 150px; */
+    height: 200px;
+}
+.Book__data {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 0 0 10px;
+}
+
+.Book__title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Book__desc {
+    display: none;
+}
+
+.Book__priceButton--div {
+    display: flex;
+    align-items: flex-end;
+}
+
+.Book__priceButton {
+    margin: 20px 0 0 0;
+    padding: 5px;
+    font-size: 18px;
+    width: 150px;
+    height: 50px;
+    background-color: #b95948;
+    color: #F2F2F2;
+    border: 0;    
+    cursor: pointer;
+}
+
+.Book__priceButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+
+@media screen and (min-width: 450px) {
+    .Book__container {
+        width: 100%;
+    }
+
+    .Book__data {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between  ;
+    }
+
+    .Book__desc {
+        display: flex;
+        text-align: justify;
+        padding: 0 10px 0 0;
+        max-width: 700px;
+    }    
+}

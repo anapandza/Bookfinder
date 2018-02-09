@@ -1,0 +1,80 @@
+.Book__info {
+    display: flex; 
+    padding: 10px 0;
+    max-width: 1000px;
+}
+
+.Book__about {
+    display: flex;
+    text-align: justify;
+    padding: 0 10px;
+}
+
+.Store__grid {
+    display: flex;
+    flex-direction: column;
+}
+.Stores {
+    padding: 0 0 20px 0;
+}
+
+.Store__container {
+    box-shadow: 1px 1px 5px 1px #888888;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+}
+
+.Store__container:hover {
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.first {
+    height: 100px;
+}
+.first .Store__button {
+    height: 100px;
+}
+
+.Store__button {
+    align-self: center;
+    padding: 5px;
+    font-size: 18px;
+    width: 150px;
+    height: 50px;
+    background-color: #b95948;
+    color: #F2F2F2;
+    border: 0;    
+    cursor: pointer;
+}
+
+.Book__price {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 600px) {
+    .Store__container {
+        width: 80vw;
+    }
+}
+
+@media screen and (min-width: 710px) {
+    .Stores {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .Store__container {
+        width: 290px;
+        margin: 0 80px 0 0;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .Store__container {
+        width: 490px;
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "headerLinks": [
+        "Home",
+        "About",
+        "Contact"
+    ],
+
+    "fictionLinks": [
+        "Classics",
+        "Crime",
+        "Romance",
+        "Poetry"
+    ],
+    
+    "childrensLinks": [
+        "Stories",
+        "Education",
+        "Fiction",
+        "Comics"
+    ],
+    "nonfictionLinks": [
+        "Textbooks",
+        "Biografies",
+        "Health",
+        "Cookry"
+    ]
+}

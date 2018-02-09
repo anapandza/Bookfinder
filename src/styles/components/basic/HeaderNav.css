@@ -1,0 +1,20 @@
+.HeaderNav__container {
+    display: flex;
+    align-items: flex-end;
+}
+.HeaderNav__link {
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F2F2F2;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.HeaderNav__link:hover {  
+    background-color: #048b82; 
+}
+
+.HeaderNav--active {
+   background-color: #155c57; 
+}

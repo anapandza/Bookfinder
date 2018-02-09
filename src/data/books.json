@@ -1,0 +1,74 @@
+[
+    {
+        "title": "The Scarlet Letter, Nathaniel Hawthorne",
+        "description": "America’s first psychological novel, Nathaniel Hawthorne’s The Scarlet Letter is a dark tale of love, crime, and revenge set in colonial New England. It revolves around a single, forbidden act of passion.",
+        "genres": ["Classics"],
+        "url": "./assets/images/fiction/TheScarletLetter.jpg"
+    },
+    {
+        "title": "City of the Lost, Kelley  Armstrong",
+        "description": "Casey Duncan is a homicide detective with a secret: when she was in college, she killed a man. She was never caught, but he was the grandson of a mobster and she knows that someday this crime will catch up to her.",
+        "genres": ["Crime", "Popular"],
+        "url": "./assets/images/fiction/CityoftheLost.jpg"
+    },
+    {
+        "title": "The Sun and Her Flowers, Rapi Kaur",
+        "description": "Divided into five chapters and illustrated by Kaur, the sun and her flowers is a journey of wilting, falling, rooting, rising, and blooming. A celebration of love in all its forms.",
+        "genres": ["Poetry", "Popular"],
+        "url": "./assets/images/fiction/TheSunandHerFlowers.jpg"
+    },
+    {
+        "title": "Moonlight over Manhattan, Sarah Morgan",
+        "description": "Determined to conquer a lifetime of shyness, Harriet Knight challenges herself to do one thing a day in December that scares her, including celebrating Christmas without her family.",
+        "genres": ["Romance", "Popular"],
+        "url": "./assets/images/fiction/MoonligntOverManhattan.jpg"
+    },
+    {   
+        "title": "Hamlet, William Shakespeare",
+        "description": "Perhaps the single most influential work of English drama, William Shakespeare's Hamlet is a timeless tragedy of the conflicted loyalties, madness, betrayal and terrible revenge.",
+        "genres": ["Classics"],
+        "url": "./assets/images/fiction/Hamlet.jpg"
+    },
+    {
+        "title": "Deep Freeze, John Standford",
+        "description": "Virgil knows the town of Trippton, Minnesota, a little too well. A few years back, he investigated the corrupt—and as it turned out, homicidal—local school board, and now the town's back in view with more alarming news: A woman's been found dead, frozen in a block of ice.",
+        "genres": ["Crime", "Popular"],
+        "url": "./assets/images/fiction/DeepFreeze.jpg"
+    },
+    {
+        "title": "Eighteen Years, Madisen Kuhn",
+        "description": "Eighteen Years is here to tell you that you are not alone. It is meant to be curled up with at night, accompanied by a cup of tea.",
+        "genres": ["Poetry", "Popular"],
+        "url": "./assets/images/fiction/EighteenYears.jpg"
+    },
+    {
+        "title": "A Duke in Shining Armor, Lorreta Chase",
+        "description": "Hugh Philemon Ancaster, seventh Duke of Ripley, will never win prizes for virtue. But even he draws the line at running off with his best friend’s bride.",
+        "genres": ["Romance"],
+        "url": "./assets/images/fiction/DukeinShiningArmor.jpg"
+    },
+    {
+        "title": "The Picture of Dorian Gray, Oscar Wilde",
+        "description": "Enthralled by his own exquisite portrait, Dorian Gray exchanges his soul for eternal youth and beauty. Influenced by his friend Lord Henry Wotton, he is drawn into a corrupt double life; indulging his desires in secret while remaining a gentleman in the eyes of polite society.",
+        "genres": ["Classics", "Popular"],
+        "url": "./assets/images/fiction/ThePictureofDorianGray.jpg"
+    },
+    {
+        "title": "Don't Close Your Eyes, Holly Sedon",
+        "description": "Robin and Sarah weren't the closest of twins, but they loved each other dearly. Until they were taken from one another. Robin now lives alone. Suffering from panic attacks, she watches the world from the safety of her sitting room. Until one day, she sees something she shouldn't...",
+        "genres": ["Crime"],
+        "url": "./assets/images/fiction/DontCloseYourEyes.jpg"
+    },
+    {
+        "title": "The Inferno, Dante Alighieri",
+        "description": "One of the world’s transcendent literary masterpieces, the Inferno tells the timeless story of Dante’s journey through the nine circles of hell, guided by the poet Virgil, when in midlife he strays from his path in a dark wood.",
+        "genres": ["Poetry", "Popular"],
+        "url": "./assets/images/fiction/TheInferno.jpg"
+    },
+    {
+        "title": "Faking Friends, Jane Fallon",
+        "description": "Your best friend stole your fiance. Do you run away and hide, or start planning your revenge? Find out in Sunday Times bestselling author Jane Fallon's all-new novel, Faking Friends. Best friend, soulmate, confidante . . . backstabber.",
+        "genres": ["Romance"],
+        "url": "./assets/images/fiction/FakingFriends.jpg"
+    }
+]
